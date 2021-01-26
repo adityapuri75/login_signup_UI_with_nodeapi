@@ -1,16 +1,23 @@
 # login_signup_with_nodeapi
 
-A new Flutter application.
+Hola! In This Project I Have Made Login Sign UI With nodeJs 
 
-## Getting Started
+##Add A Secret Class For Your Api Like
+class Secret{
+final String login = "Your Api Link Here",
+}##
 
-This project is a starting point for a Flutter application.
+Here Are Some Screen Shots Of The App
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+<img src="https://user-images.githubusercontent.com/49858681/105897935-da33d180-603e-11eb-8e4a-4d64c67f4519.jpg" width="120">                        <img src="https://user-images.githubusercontent.com/49858681/105897936-dacc6800-603e-11eb-86ef-9f565983a963.jpg" width="120"> 
+
+
+
